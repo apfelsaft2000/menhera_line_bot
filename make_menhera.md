@@ -73,12 +73,11 @@ class: 'text-reft'
 ---
 
 # システム構成図
-ざっくりシステム構成紹介
+システム構成紹介
 
 <div align="center">
 <img src="/img/sistem.jpg" alt="属性" title="メンヘラ">
 </div>
-
 
 ---
 layout: cover
