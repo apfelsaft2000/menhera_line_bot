@@ -63,12 +63,22 @@ class: 'text-reft'
 画像をLINEのbotに投げるとその人がメンヘラである確率が何%あるのか、また、AIがその判定をするに至って重視した画像の領域を強調表示した画像を提示(2018年頃に発表されたgrad_camという技術)
 
 
+<div class="grid grid-cols-[50%,50%] gap-4"><div>
+
 <center>
+QRコード
+</center>
+<img src="/img/menhera.png" alt="属性" title="QR">
+
+</div><div>
+
 <iframe width="300" height="350" src="https://youtube.com/embed/U0dGHA2edIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div></div>
+
+<center>
 もしよかったら皆さんも実際に使ってみてください!メンヘラ判定AIで検索書けると出てきます！
 </center>
-
-
 
 ---
 
@@ -76,7 +86,7 @@ class: 'text-reft'
 システム構成紹介
 
 <div align="center">
-<img src="/img/sistem.jpg" alt="属性" title="メンヘラ">
+<img src="/img/sistems.jpg" alt="属性" title="メンヘラ">
 </div>
 
 ---
@@ -85,7 +95,7 @@ background: https://source.unsplash.com/collection/94734566/1920x1080
 ---
 
 # 実装するにあたり苦労した事3選
-・・・と行きたいですがここで資料作成の力が尽きたので、需要があれば次回までに用意してきます！
+需要があれば次回までに用意してきます！
 ---
 
 # 1つ目：学習データの用意
